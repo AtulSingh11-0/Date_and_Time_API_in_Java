@@ -5,7 +5,7 @@ import java.time.Month;
 /*
 * LocalDate represents a date without any time zone
 * */
-public class LocalDateTest {
+public class LocalDateExample {
   public static void main ( String[] args ) {
     LocalDate now = LocalDate.now(); // creating an instance of LocalDate which store the current date
     System.out.println("Current Date: " + now); // Current Date: 2024-06-29

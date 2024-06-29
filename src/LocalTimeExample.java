@@ -3,7 +3,7 @@ import java.time.LocalTime;
 /*
 * LocalTime represents the time without any time zone
 * */
-public class LocalTimeTest {
+public class LocalTimeExample {
   public static void main ( String[] args ) {
     LocalTime now = LocalTime.now(); // creating an instance of LocalTime which store the current time
     System.out.println("Current time: " + now); // Current time: 21:16:26.942963800
