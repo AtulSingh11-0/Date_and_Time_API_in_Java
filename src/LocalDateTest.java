@@ -2,6 +2,9 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
 
+/*
+* LocalDate represents a date without any time zone
+* */
 public class LocalDateTest {
   public static void main ( String[] args ) {
     LocalDate now = LocalDate.now(); // creating an instance of LocalDate which store the current date
