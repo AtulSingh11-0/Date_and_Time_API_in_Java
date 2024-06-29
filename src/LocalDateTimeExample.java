@@ -18,8 +18,8 @@ public class LocalDateTimeExample {
   }
 }
 /*
-Output:
-Current date and time: 2024-06-29T23:22:22.407074200
-Custom date and time: 2024-10-14T12:00
-Parsed date and time: 2020-10-14T14:12
+  Output:
+  Current date and time: 2024-06-29T23:22:22.407074200
+  Custom date and time: 2024-10-14T12:00
+  Parsed date and time: 2020-10-14T14:12
 * */
