@@ -37,14 +37,14 @@ public class LocalDateExample {
   }
 }
 /*
-  Output:
-  Current Date: 2024-06-29
-  Year: 2024
-  Day of Month: 29
-  Day of Week: SATURDAY
-  Day of Year: 181
-  Month: JUNE
-  Month value: 6
-  User date: 2004-10-14
-  false
+ * Output:
+ * Current Date: 2024-06-29
+ * Year: 2024
+ * Day of Month: 29
+ * Day of Week: SATURDAY
+ * Day of Year: 181
+ * Month: JUNE
+ * Month value: 6
+ * User date: 2004-10-14
+ * false
 */

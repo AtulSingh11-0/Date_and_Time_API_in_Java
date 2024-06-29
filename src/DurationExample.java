@@ -21,8 +21,8 @@ public class DurationExample {
   }
 }
 /*
-  Output:
-  Duration of 4 days: PT96H
-  Parsed duration: PT6H
-  Difference of durations: PT0.0019994S
+* Output:
+* Duration of 4 days: PT96H
+* Parsed duration: PT6H
+* Difference of durations: PT0.0019994S
 * */

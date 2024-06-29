@@ -22,8 +22,8 @@ public class DateTimeFormatterExample {
   }
 }
 /*
-Output:
-Unformatted date and time: 2024-06-30T00:53:11.315737900
-Formatted date and time: 30.06.2024 00:53:11
-Formatted and Parsed zoned date time: 2004-10-14T12:31:59+05:00
+* Output:
+* Unformatted date and time: 2024-06-30T00:53:11.315737900
+* Formatted date and time: 30.06.2024 00:53:11
+* Formatted and Parsed zoned date time: 2004-10-14T12:31:59+05:00
 * */

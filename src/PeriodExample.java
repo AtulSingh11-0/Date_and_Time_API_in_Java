@@ -16,7 +16,7 @@ public class PeriodExample {
   }
 }
 /*
-  Output:
-  Period between then and now: P-19Y-8M-16D
-  Period of: P5D
+* Output:
+* Period between then and now: P-19Y-8M-16D
+* Period of: P5D
 * */

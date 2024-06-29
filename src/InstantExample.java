@@ -18,8 +18,8 @@ public class InstantExample {
   }
 }
 /*
-  Output:
-  Current instantaneous time: 2024-06-29T18:35:08.362425700Z
-  1719686108
-  2024-06-30T03:35:08.362425700+09:00[Asia/Tokyo]
+* Output:
+* Current instantaneous time: 2024-06-29T18:35:08.362425700Z
+* 1719686108
+* 2024-06-30T03:35:08.362425700+09:00[Asia/Tokyo]
 * */

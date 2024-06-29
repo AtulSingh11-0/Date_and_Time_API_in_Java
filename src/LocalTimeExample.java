@@ -31,13 +31,13 @@ public class LocalTimeExample {
   }
 }
 /*
-  Output:
-  Current time: 21:16:26.942963800
-  Hour: 21
-  Minute: 16
-  Second: 26
-  Nanosecond: 942963800
-  User time: 08:14
-  Parsed time: 08:39
-  true
+* Output:
+* Current time: 21:16:26.942963800
+* Hour: 21
+* Minute: 16
+* Second: 26
+* Nanosecond: 942963800
+* User time: 08:14
+* Parsed time: 08:39
+* true
 * */

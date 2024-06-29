@@ -27,9 +27,9 @@ public class ZonedDateTimeExample {
   }
 }
 /*
-  Output:
-  Asia australiaTime: 2024-06-29T23:48:56.607202400+05:30[Asia/Calcutta]
-  Australia/Darwin zone time: 2024-06-30T03:48:56.609201400+09:30[Australia/Darwin]
-  Tokyo zone time: 2002-12-27T18:30:50.000000100+09:00[Asia/Tokyo]
-  Parsed zoned time: 2002-06-29T23:47:59.948979700+05:30[Asia/Calcutta]
+* Output:
+* Asia australiaTime: 2024-06-29T23:48:56.607202400+05:30[Asia/Calcutta]
+* Australia/Darwin zone time: 2024-06-30T03:48:56.609201400+09:30[Australia/Darwin]
+* Tokyo zone time: 2002-12-27T18:30:50.000000100+09:00[Asia/Tokyo]
+* Parsed zoned time: 2002-06-29T23:47:59.948979700+05:30[Asia/Calcutta]
 * */
