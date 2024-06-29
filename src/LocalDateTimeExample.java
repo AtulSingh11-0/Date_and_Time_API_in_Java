@@ -1,5 +1,8 @@
 import java.time.LocalDateTime;
 
+/*
+* LocalDateTime represents the local date and time without any time zone
+* */
 public class LocalDateTimeExample {
   public static void main ( String[] args ) {
     LocalDateTime now = LocalDateTime.now(); // creating an instance of LocalDateTime which store the current date
