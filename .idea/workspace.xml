@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LocalAndInstanceExamples.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SortingList.executor": "Run",
     "Application.SortingObjects.executor": "Run",
@@ -84,7 +85,10 @@
       <updated>1719852966666</updated>
       <workItem from="1719852967973" duration="100000" />
       <workItem from="1719853093108" duration="646000" />
-      <workItem from="1719906584094" duration="6672000" />
+      <workItem from="1719906584094" duration="7428000" />
+      <workItem from="1720073680436" duration="57000" />
+      <workItem from="1720073752450" duration="7000" />
+      <workItem from="1720114988840" duration="1529000" />
     </task>
     <servers />
   </component>
