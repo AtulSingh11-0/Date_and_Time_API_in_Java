@@ -49,26 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortingList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortingObjects.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortingTreeMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortingTreeSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingAndOrNegateExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingPredicatesExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LocalAndInstanceExamples.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SortingList.executor": "Run",
+    "Application.SortingObjects.executor": "Run",
+    "Application.SortingTreeMap.executor": "Run",
+    "Application.SortingTreeSet.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
+    "vue.rearranger.settings.migration": "true"
   }
 }</component>
   <component name="SharedIndexes">
@@ -89,7 +88,10 @@
       <updated>1719852966666</updated>
       <workItem from="1719852967973" duration="100000" />
       <workItem from="1719853093108" duration="646000" />
-      <workItem from="1719906584094" duration="6672000" />
+      <workItem from="1719906584094" duration="7428000" />
+      <workItem from="1720073680436" duration="57000" />
+      <workItem from="1720073752450" duration="7000" />
+      <workItem from="1720114988840" duration="1529000" />
     </task>
     <servers />
   </component>
