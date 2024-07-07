@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="" />
+    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Functions/UsingApplyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Predicates/UsingIsEqualExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predicates/UsingIsEqualExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +41,9 @@
     &quot;accountId&quot;: &quot;30a5a4c8-35ab-41ba-aa9b-d02fd8d16e8e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -58,16 +65,13 @@
     "Application.SortingTreeMap.executor": "Run",
     "Application.SortingTreeSet.executor": "Run",
     "Application.UsingAndOrNegateExamples.executor": "Run",
+    "Application.UsingFunctionApplyExample.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/cocat/Documents/Java_Course/Java 8",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +105,7 @@
       <workItem from="1720073680436" duration="57000" />
       <workItem from="1720073752450" duration="7000" />
       <workItem from="1720114988840" duration="1529000" />
+      <workItem from="1720329120424" duration="2390000" />
     </task>
     <servers />
   </component>

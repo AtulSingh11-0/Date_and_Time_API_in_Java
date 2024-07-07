@@ -5,7 +5,7 @@ import java.util.function.Predicate;
 /*
 * This class demonstrates the use of isEqual method of the Predicate interface.
 * */
-public class UsingIsEqualExamples {
+public class UsingIsEqualExample {
   public static void main(String[] args) {
 
     // Predicate to check if a string is equal to "Java-8"
