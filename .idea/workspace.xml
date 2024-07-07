@@ -51,16 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-<<<<<<< HEAD
-=======
     "Application.LocalAndInstanceExamples.executor": "Run",
->>>>>>> da2d35e06eb6f0791eabc92d7f359b28b5e37ecc
     "Application.Main.executor": "Run",
     "Application.SortingList.executor": "Run",
     "Application.SortingObjects.executor": "Run",
     "Application.SortingTreeMap.executor": "Run",
     "Application.SortingTreeSet.executor": "Run",
-<<<<<<< HEAD
     "Application.UsingAndOrNegateExamples.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,12 +64,10 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/cocat/Documents/Java_Course/Java 8",
-=======
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
->>>>>>> da2d35e06eb6f0791eabc92d7f359b28b5e37ecc
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,15 +95,12 @@
       <updated>1719852966666</updated>
       <workItem from="1719852967973" duration="100000" />
       <workItem from="1719853093108" duration="646000" />
-<<<<<<< HEAD
       <workItem from="1719906584094" duration="6672000" />
       <workItem from="1720325323413" duration="494000" />
-=======
       <workItem from="1719906584094" duration="7428000" />
       <workItem from="1720073680436" duration="57000" />
       <workItem from="1720073752450" duration="7000" />
       <workItem from="1720114988840" duration="1529000" />
->>>>>>> da2d35e06eb6f0791eabc92d7f359b28b5e37ecc
     </task>
     <servers />
   </component>
