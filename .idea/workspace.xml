@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/UsingIdentityExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/UsingIdentityExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +62,13 @@
     "Application.SortingObjects.executor": "Run",
     "Application.SortingTreeMap.executor": "Run",
     "Application.SortingTreeSet.executor": "Run",
+    "Application.UsingAcceptAndandThenExample.executor": "Run",
     "Application.UsingAndOrNegateExamples.executor": "Run",
     "Application.UsingAndThenExample.executor": "Run",
     "Application.UsingComposeExample.executor": "Run",
     "Application.UsingFunctionApplyExample.executor": "Run",
     "Application.UsingIdentityExample.executor": "Run",
+    "Application.UsingPredicateFunctionConsumerSupplierExample.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
