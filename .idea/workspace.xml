@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Consumers/UsingAcceptAndandThenExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +68,7 @@
     "Application.UsingComposeExample.executor": "Run",
     "Application.UsingFunctionApplyExample.executor": "Run",
     "Application.UsingIdentityExample.executor": "Run",
+    "Application.UsingPredicateFunctionConsumerSupplierExample.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
