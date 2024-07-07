@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="" />
+    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/UsingIdentityExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/UsingIdentityExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,9 @@
     &quot;accountId&quot;: &quot;30a5a4c8-35ab-41ba-aa9b-d02fd8d16e8e&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -57,10 +63,17 @@
     "Application.SortingObjects.executor": "Run",
     "Application.SortingTreeMap.executor": "Run",
     "Application.SortingTreeSet.executor": "Run",
+    "Application.UsingAndOrNegateExamples.executor": "Run",
+    "Application.UsingAndThenExample.executor": "Run",
+    "Application.UsingComposeExample.executor": "Run",
+    "Application.UsingFunctionApplyExample.executor": "Run",
+    "Application.UsingIdentityExample.executor": "Run",
+    "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cocat/Documents/Java_Course/Java 8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +82,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
     "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,10 +101,13 @@
       <updated>1719852966666</updated>
       <workItem from="1719852967973" duration="100000" />
       <workItem from="1719853093108" duration="646000" />
+      <workItem from="1719906584094" duration="6672000" />
+      <workItem from="1720325323413" duration="494000" />
       <workItem from="1719906584094" duration="7428000" />
       <workItem from="1720073680436" duration="57000" />
       <workItem from="1720073752450" duration="7000" />
       <workItem from="1720114988840" duration="1529000" />
+      <workItem from="1720329120424" duration="6749000" />
     </task>
     <servers />
   </component>
