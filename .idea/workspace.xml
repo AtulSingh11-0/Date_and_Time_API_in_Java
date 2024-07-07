@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/UsingApplyExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predicates/UsingIsEqualExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predicates/UsingIsEqualExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
     "Application.SortingTreeMap.executor": "Run",
     "Application.SortingTreeSet.executor": "Run",
     "Application.UsingAndOrNegateExamples.executor": "Run",
+    "Application.UsingAndThenExample.executor": "Run",
     "Application.UsingFunctionApplyExample.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -105,7 +104,7 @@
       <workItem from="1720073680436" duration="57000" />
       <workItem from="1720073752450" duration="7000" />
       <workItem from="1720114988840" duration="1529000" />
-      <workItem from="1720329120424" duration="2390000" />
+      <workItem from="1720329120424" duration="5050000" />
     </task>
     <servers />
   </component>
