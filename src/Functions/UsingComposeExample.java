@@ -1,4 +1,4 @@
-package DateAndTimeAPI.Functions;
+package org.Functions;
 
 import java.util.List;
 import java.util.function.Function;

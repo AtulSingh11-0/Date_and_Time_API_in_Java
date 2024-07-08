@@ -1,4 +1,4 @@
-package DateAndTimeAPI.LambdaExpressions.UsingWithThreads;
+package org.LambdaExpressions.UsingWithThreads;
 
 /*
 * We can use lambda expression with threads. We can provide the implementation of the run() method of the Runnable

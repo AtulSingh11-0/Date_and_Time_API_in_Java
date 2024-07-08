@@ -1,4 +1,4 @@
-package DateAndTimeAPI.LambdaExpressions.LambdaExpressionVsAnonymousInnerClass;
+package org.LambdaExpressions.LambdaExpressionVsAnonymousInnerClass;
 
 /*
 * Java program to demonstrate local and instance variables in lambda expressions

@@ -1,4 +1,4 @@
-package DateAndTimeAPI.DataAndTimeAPI;
+package org.DataAndTimeAPI;
 
 import java.time.ZoneId;
 import java.time.ZonedDateTime;

@@ -1,4 +1,4 @@
-package DateAndTimeAPI.LambdaExpressions.UsingWithComparators;
+package org.LambdaExpressions.UsingWithComparators;
 
 import java.util.Set;
 import java.util.TreeSet;

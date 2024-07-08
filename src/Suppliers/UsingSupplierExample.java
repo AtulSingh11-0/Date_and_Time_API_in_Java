@@ -1,4 +1,4 @@
-package DateAndTimeAPI.Suppliers;
+package org.Suppliers;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package DateAndTimeAPI.LambdaExpressions.UsingWithFunctionalInterface;
+package org.LambdaExpressions.UsingWithFunctionalInterface;
 
 /*
 * Implementing Lambda Expression with Functional Interface
