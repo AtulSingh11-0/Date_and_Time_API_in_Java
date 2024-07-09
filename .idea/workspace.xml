@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/UsingBiPredicateBiFunctionBiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/UsingBiPredicateBiFunctionBiConsumerExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
     "Application.UsingAndOrNegateExamples.executor": "Run",
     "Application.UsingAndThenExample.executor": "Run",
     "Application.UsingBiPredicateBiFunctionBiConsumerExample.executor": "Run",
+    "Application.UsingBinaryOperatorExample.executor": "Run",
     "Application.UsingComposeExample.executor": "Run",
     "Application.UsingFunctionApplyExample.executor": "Run",
     "Application.UsingIdentityExample.executor": "Run",
@@ -121,7 +119,7 @@
       <workItem from="1720450716475" duration="1951000" />
       <workItem from="1720545661751" duration="683000" />
       <workItem from="1720546369489" duration="290000" />
-      <workItem from="1720546684260" duration="2270000" />
+      <workItem from="1720546684260" duration="2696000" />
     </task>
     <servers />
   </component>
