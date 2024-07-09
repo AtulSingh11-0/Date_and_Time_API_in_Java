@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="" />
+    <list default="true" id="73e2b0bc-e805-4e85-b72f-d445a12eff77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/example/binaryOperator/UsingBinaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/binaryOperator/UsingBinaryOperatorExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +121,7 @@
       <workItem from="1720450716475" duration="1951000" />
       <workItem from="1720545661751" duration="683000" />
       <workItem from="1720546369489" duration="290000" />
-      <workItem from="1720546684260" duration="2696000" />
+      <workItem from="1720546684260" duration="3155000" />
     </task>
     <servers />
   </component>

@@ -26,7 +26,7 @@ public class UsingBinaryOperatorExample {
       }
       return lcm;
     };
-    
+
     System.out.println("LCM of " + num1 + " and " + num2 + " is: " + calculateLCM.apply(num1, num2)); // LCM of two numbers using BinaryOperator
   }
 }
