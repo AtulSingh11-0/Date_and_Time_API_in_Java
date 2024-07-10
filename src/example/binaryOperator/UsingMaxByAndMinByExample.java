@@ -26,5 +26,5 @@ which returns the maximum value of two values. In the above example, we have use
 
 The minBy method takes a Comparator as an argument which is used to compare two values. It returns a BinaryOperator
 which returns the minimum value of two values. In the above example, we have used Comparator.naturalOrder() which
-compares two values in natural order. 
+compares two values in natural order.
 * */
