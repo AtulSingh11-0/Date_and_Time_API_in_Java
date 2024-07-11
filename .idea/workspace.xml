@@ -73,6 +73,7 @@
     "Application.UsingIdentityExample.executor": "Run",
     "Application.UsingMaxByAndMinByExample.executor": "Run",
     "Application.UsingMethodReferenceExample.executor": "Run",
+    "Application.UsingOptionalExample.executor": "Run",
     "Application.UsingPredicateFunctionConsumerSupplierExample.executor": "Run",
     "Application.UsingPredicatesExample.executor": "Run",
     "Application.UsingStreamExample.executor": "Run",
@@ -127,7 +128,8 @@
       <workItem from="1720545661751" duration="683000" />
       <workItem from="1720546369489" duration="290000" />
       <workItem from="1720546684260" duration="5208000" />
-      <workItem from="1720627358102" duration="5232000" />
+      <workItem from="1720627358102" duration="5676000" />
+      <workItem from="1720681264053" duration="3712000" />
     </task>
     <servers />
   </component>
