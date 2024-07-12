@@ -54,45 +54,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LocalAndInstanceExamples.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SortingList.executor": "Run",
-    "Application.SortingObjects.executor": "Run",
-    "Application.SortingTreeMap.executor": "Run",
-    "Application.SortingTreeSet.executor": "Run",
-    "Application.UsingAcceptAndandThenExample.executor": "Run",
-    "Application.UsingAndOrNegateExamples.executor": "Run",
-    "Application.UsingAndThenExample.executor": "Run",
-    "Application.UsingBiPredicateBiFunctionBiConsumerExample.executor": "Run",
-    "Application.UsingBinaryOperatorExample.executor": "Run",
-    "Application.UsingComposeExample.executor": "Run",
-    "Application.UsingConstructorReferenceExample.executor": "Run",
-    "Application.UsingFunctionApplyExample.executor": "Run",
-    "Application.UsingIdentityExample.executor": "Run",
-    "Application.UsingMaxByAndMinByExample.executor": "Run",
-    "Application.UsingMethodReferenceExample.executor": "Run",
-    "Application.UsingOptionalExample.executor": "Run",
-    "Application.UsingPredicateFunctionConsumerSupplierExample.executor": "Run",
-    "Application.UsingPredicatesExample.executor": "Run",
-    "Application.UsingStreamExample.executor": "Run",
-    "Application.UsingStreamFunctionsExample.executor": "Run",
-    "Application.UsingUnaryOperatorExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cocat/Documents/Java_Course/Java 8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LocalAndInstanceExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingTreeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingAcceptAndandThenExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingAndOrNegateExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingAndThenExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingBiPredicateBiFunctionBiConsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingBinaryOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingComposeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingConstructorReferenceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingFunctionApplyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingIdentityExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingMaxByAndMinByExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingMethodReferenceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingOptionalExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingPredicateFunctionConsumerSupplierExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingPredicatesExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingStreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingStreamFunctionsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingUnaryOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cocat/Documents/Java_Course/Java 8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cocat\Documents\Java_Course\Java-8\src" />
@@ -129,7 +129,8 @@
       <workItem from="1720546369489" duration="290000" />
       <workItem from="1720546684260" duration="5208000" />
       <workItem from="1720627358102" duration="5676000" />
-      <workItem from="1720681264053" duration="3712000" />
+      <workItem from="1720681264053" duration="4085000" />
+      <workItem from="1720776364423" duration="165000" />
     </task>
     <servers />
   </component>
