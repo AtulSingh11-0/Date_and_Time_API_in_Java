@@ -1,4 +1,4 @@
-package org.example.streamAPI;
+package Java8.src.example.streamAPI;
 
 import java.util.List;
 import java.util.Random;
